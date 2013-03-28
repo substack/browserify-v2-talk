@@ -22,7 +22,7 @@ module-deps
 browser-pack
 insert-module-globals
 
-# debugging
+# debug
 
 ```
 browserify main.js --debug
@@ -47,3 +47,5 @@ and for debugging with inline source maps:
 ```
 browserify -t coffeeify main.js --debug
 ```
+
+# music

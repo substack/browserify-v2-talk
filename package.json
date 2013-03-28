@@ -11,6 +11,7 @@
     "coffeeify": "~0.3.0",
     "shoe": "~0.0.10",
     "module-deps": "~0.6.0",
-    "browser-pack": "~0.7.0"
+    "browser-pack": "~0.7.0",
+    "webaudio": "~1.0.0"
   }
 }
