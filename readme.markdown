@@ -1,8 +1,14 @@
+# browserify-v2-talk
+
+examples from my talk at [js.la](http://js.la)
+
 # bundle
 
 ```
 browserify main.js > bundle.js
 ```
+
+# builtins
 
 # external
 
