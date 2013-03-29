@@ -12,6 +12,8 @@
     "shoe": "~0.0.10",
     "module-deps": "~0.6.0",
     "browser-pack": "~0.7.0",
-    "gamma": "~0.1.0"
+    "gamma": "~0.1.0",
+    "hyperquest": "~0.1.2",
+    "concat-stream": "~0.1.1"
   }
 }

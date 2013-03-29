@@ -1,0 +1,17 @@
+<html><body>
+<pre style="height: 300px"></pre>
+<script src="bundle.js"></script>
+<script>
+  var hyperquest = require('hyperquest');
+  var through = require('through');
+  var url = require('url');
+  var pre = document.querySelector('pre');
+  document.body.appendChild(pre);
+  
+  var href = url.resolve(location.href, './turtle.txt');
+  var hq = hyperquest(href);
+  hq.pipe(through(function (buf) {
+    pre.appendChild(document.createTextNode(buf));
+  }));
+</script>
+</body></html>

@@ -1,10 +1,10 @@
 bundle
 builtins
 external
-standalone
-pipes
-debug
-transforms
-coffee
-tests
-music
+* standalone
+* pipes
+* debug
+* transforms
+* coffee
+* tests
+* music
