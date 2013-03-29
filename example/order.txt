@@ -3,7 +3,7 @@ builtins
 external
 * standalone
 pipes
-* debug
+debug
 static-assets/0
 static-assets/1
 * coffee
