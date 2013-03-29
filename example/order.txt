@@ -4,7 +4,8 @@ external
 * standalone
 pipes
 * debug
-* transforms
+static-assets/0
+static-assets/1
 * coffee
 * tests
-* music
+music
