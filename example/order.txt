@@ -1,11 +1,10 @@
 bundle
 builtins
 external
-* standalone
 pipes
 debug
 static-assets/0
 static-assets/1
-* coffee
-* tests
+coffee
+tests
 music
