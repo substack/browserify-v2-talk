@@ -2,7 +2,7 @@ bundle
 builtins
 external
 * standalone
-* pipes
+pipes
 * debug
 * transforms
 * coffee
